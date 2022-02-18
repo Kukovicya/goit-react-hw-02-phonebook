@@ -11,7 +11,7 @@ export const App = () => {
         color: '#010101',
       }}
     >
-      React homework template blin
+      React homework template blin oi
     </div>
   );
 };
